@@ -2,7 +2,7 @@ Demonstration of various utility functions.
 
 
 [![Build Status](https://travis-ci.org/fduckart/uh-its-demo.png?branch=master)](https://travis-ci.org/fduckart/uh-its-demo)
-[![Coverage Status](https://coveralls.io/repos/github/fduckart/uh-its-demo/badge.svg)](https://coveralls.io/github/fduckart/uh-its-demo)
+[![Coverage Status](https://coveralls.io/repos/github/fduckart/uh-its-demo/badge.svg?branch=master)](https://coveralls.io/github/fduckart/uh-its-demo?branch=master)
 
 ##### Build Tool
 Apache maven (version 3.2.3+).
