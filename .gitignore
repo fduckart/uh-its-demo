@@ -1,0 +1,11 @@
+.classpath
+.project
+.DS_Store
+output.txt
+/.settings
+/bin
+/target
+/src/main/resources/Tenure-140f836d11b4.json
+*-overrides.properties
+/mvnw
+/mvnw.cmd
